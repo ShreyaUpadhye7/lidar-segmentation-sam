@@ -1,0 +1,8 @@
+numpy
+open3d==0.18.0
+opencv-python==4.10.0.84
+torch
+matplotlib
+tqdm
+pyntcloud
+segment-anything @ git+https://github.com/facebookresearch/segment-anything.git
