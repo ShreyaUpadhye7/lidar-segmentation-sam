@@ -5,10 +5,10 @@ This repository contains the implementation for the research work:
 
 **Efficient Segmentation and Analysis Automation of LiDAR Data**
 
-Authors:  
+Authors: 
+Shreya Vijaykumar Upadhye 
 Sweekruti S Nayak  
-Tejawsini Mullalli  
-Shreya Vijaykumar Upadhye  
+Tejawsini Mullalli   
 P.G Sunitha Hiremath  
 Sujay Raghavendra  
 
@@ -266,3 +266,4 @@ Upadhye, S. V., Nayak, S. S., Mullalli, T., Hiremath, P. G. S., & Raghavendra, S
 Efficient Segmentation and Analysis Automation of LiDAR Data.
 RTIP2R 2025.
 ```
+
